@@ -1,6 +1,6 @@
 **NLP Project on Sentiment Analysis regarding AI publications**
 
-Repository which aims to analyze sentiment regarding artificial intelligence in the Guardian's publications. 
+Repository which aims to analyze sentiment regarding artificial intelligence in the Guardian and the NYT's publications. 
 This project was led by the University of Chicago's Institute of Politics (IOP) Tech Team, and aimed to divide students into smaller groups with
 shared political themes of their choice. Each group could then edit the base code provided by the IOP to extract data from the chosen newspaper's API
 and run sentiment analysis on the publications concerning their topic. 
