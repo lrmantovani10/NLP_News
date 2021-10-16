@@ -1,4 +1,4 @@
-**NLP Project***
+**NLP Project on Sentiment Analysis regarding AI publications**
 
 Project which aims to analyze sentiment regarding artifiical intelligence in the Guardian's publications. 
 This project was led by the University of Chicago's Institute of Politics (IOP) Tech Team, and aimed to divide students into smaller groups with
