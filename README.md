@@ -7,4 +7,4 @@ and run sentiment analysis on the publications concerning their topic.
 I chose the theme of Artificial Intelligence, so I ran sentiment analysis on publications containing words about this theme. My main goals were to unerstand how 
 the media responds to increased research and development of Machine Learning (and, more specifically, neural networks): are breakthroughs in this
 field regarded with pessimism and fear? If so, could this be a factor promoting AI aversion among he broader population? If not, could articles
-that refer to AI in a positive tone help reverse this trend? The analsyis obtained from this code aims to discuss these questions. 
+that refer to AI in a positive tone help reverse this trend? The analsyis obtained from the code available here aims to discuss these questions. 
