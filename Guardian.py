@@ -5,10 +5,9 @@ import datetime
 from dateutil import rrule
 import re
 
-# DOcumentation link: https://open-platform.theguardian.com/documentation/
+# Documentation link: https://open-platform.theguardian.com/documentation/
 
-"""We can also try the **Guardian API**... Make sure you are using the correct API key."""
-GUARDIAN_KEY = "caaf6800-bac7-4fe3-bfb4-a6c233ba51e5"
+GUARDIAN_KEY = ""
 
 title = []
 date = []
